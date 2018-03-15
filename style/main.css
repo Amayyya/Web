@@ -1,0 +1,53 @@
+body {
+  font-family: 'Oswald', sans-serif;
+
+}
+
+header{
+  min-height: 80vh;
+  background-image: url('images/flower.jpg');
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  text-align: center;
+  font-family: 'Anton', sans-serif;
+  font-size-adjust:
+}
+
+.header-content-block {
+background-color: white;
+padding: 22px;
+background: rgba(170,170,170,0.6);
+}
+section {
+  text-align: center;
+}
+
+.comp-section-content {
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+}
+
+#bio {
+
+}
+
+.comp-section-item {
+  width: 32%;
+  margin: 10px;
+  max-width: 320px;
+  min-width: 300px;
+}
+
+.bio-content-block {
+
+}
+
+#comp {
+
+}
